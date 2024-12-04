@@ -5,4 +5,8 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here.
+My name it's Owen and I this is my blog
+
+
+
+I like baseball

@@ -1,5 +1,5 @@
 title: Nighthawk Pages 
-description: "Class of 2025"
+description: My awsome blog
 owner_name: Owen Howard
 github_username: Owenh271
 github_repo: "student_2025" 
@@ -7,7 +7,8 @@ github_repo: "student_2025"
 future: true
 remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: light
+
   social_links:
     - { platform: github, user_url: "https://github.com/nighthawkcoders"}
     - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
@@ -24,3 +25,6 @@ header_pages:
   - navigation/search.md
   - navigation/about.md
   - README4YML.md
+  "homepage" : "https://something.github.io/",
+  "name": "my-website",
+  "version": "0.1.0",
