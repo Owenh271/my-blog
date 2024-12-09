@@ -7,6 +7,6 @@ hide: true
 
 My name it's Owen and I this is my blog
 
+Im a freshman at Del Norte
 
-
-I like baseball
+I love baseball
