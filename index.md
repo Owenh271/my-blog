@@ -11,6 +11,4 @@ Im a freshman at Del Norte
 
 I love baseball
 
-![Padres ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.yellowpop.com%2Fproducts%2Fsan-diego-padres-rounded-logo-led-neon-sign&psig=AOvVaw0nsRDFlzEQiQjWhTsJrzqS&ust=1733862580065000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCZ-8_Dm4oDFQAAAAAdAAAAABAJ)
-
-![Padres logo ] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fsan-diego-padres-2&psig=AOvVaw3FS8D_yVwgsJNtAtaJLz55&ust=1733862936317000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj44oTFm4oDFQAAAAAdAAAAABAE)
+![im hungry](https://www.eatingwell.com/thmb/088YHsNmHkUQ7iNGP4375MiAXOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/article_7866255_foods-you-should-eat-every-week-to-lose-weight_-04-d58e9c481bce4a29b47295baade4072d.jpg)
