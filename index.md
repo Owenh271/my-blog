@@ -5,20 +5,21 @@ description: Home Page
 hide: true
 ---
 
-My name it's Owen and I this is my blog
+My name is Owen and this is my blog.
 
-Im a freshman at Del Norte
+I'm a freshman at Del Norte.
 
-I love baseball
+I love baseball.
 
 I WANT A HAMBURGER!!!!!
 
-![im hungry](https://i.ebayimg.com/images/g/ZYgAAOSwkSdjxzbC/s-l400.png)
+<!-- Resized images -->
+<img src="https://i.ebayimg.com/images/g/ZYgAAOSwkSdjxzbC/s-l400.png" width="300" alt="im hungry" />
 
-![im still hungry](https://www.thecookierookie.com/wp-content/uploads/2023/04/featured-stovetop-burgers-recipe.jpg)
+<img src="https://www.thecookierookie.com/wp-content/uploads/2023/04/featured-stovetop-burgers-recipe.jpg" width="300" alt="im still hungry" />
 
-![Flag](https://www.flagcolorcodes.com/filter?f=norway&e=waves)
+<img src="https://www.flagcolorcodes.com/filter?f=norway&e=waves" width="300" alt="Flag" />
 
-![Flag](https://m.media-amazon.com/images/I/61wBttqPtYL.jpg)
+<img src="https://m.media-amazon.com/images/I/61wBttqPtYL.jpg" width="300" alt="Flag" />
 
-![Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/640px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/640px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" width="300" alt="Flag" />
