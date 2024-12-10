@@ -11,6 +11,8 @@ Im a freshman at Del Norte
 
 I love baseball
 
+I WANT A HAMBURGER!!!!!
+
 ![im hungry](https://i.ebayimg.com/images/g/ZYgAAOSwkSdjxzbC/s-l400.png)
 
 ![im still hungry](https://www.thecookierookie.com/wp-content/uploads/2023/04/featured-stovetop-burgers-recipe.jpg)
