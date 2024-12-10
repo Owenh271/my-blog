@@ -11,4 +11,4 @@ Im a freshman at Del Norte
 
 I love baseball
 
-![im hungry](https://www.eatingwell.com/thmb/088YHsNmHkUQ7iNGP4375MiAXOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/article_7866255_foods-you-should-eat-every-week-to-lose-weight_-04-d58e9c481bce4a29b47295baade4072d.jpg)
+![im hungry](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F284167578932&psig=AOvVaw2eCl6WCemp5KG50l0vMIqy&ust=1733946965867000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiUiPv9nYoDFQAAAAAdAAAAABAE)
