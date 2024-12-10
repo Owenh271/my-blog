@@ -20,3 +20,5 @@ I WANT A HAMBURGER!!!!!
 ![Flag](https://www.flagcolorcodes.com/filter?f=norway&e=waves)
 
 ![Flag](https://m.media-amazon.com/images/I/61wBttqPtYL.jpg)
+
+![Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/640px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png)
