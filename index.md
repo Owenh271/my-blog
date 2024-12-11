@@ -13,7 +13,9 @@ I love baseball.
 
 I WANT A HAMBURGER!!!!!
 
-<button type="button">Click Me!</button>
+<a href="https://github.com/Owenh271/my-blog.git">
+  <button>Click me</button>
+</a>
 
 <!-- Resized images -->
 <img src="https://i.ebayimg.com/images/g/ZYgAAOSwkSdjxzbC/s-l400.png" width="400" alt="im hungry" />
