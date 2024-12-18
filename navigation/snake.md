@@ -236,18 +236,27 @@ permalink: /snake/
                 }
             }else{
                 // Wall Off, Circle around
-                for(let i = 0, x = snake.length; i < x; i++){
-                    if(snake[i].x < 0){
-                        snake[i].x = snake[i].x + (canvas.width / BLOCK);
-                    }
-                    if(snake[i].x === canvas.width / BLOCK){
-                        snake[i].x = snake[i].x - (canvas.width / BLOCK);
-                    }
-                    if(snake[i].y < 0){
-                        snake[i].y = snake[i].y + (canvas.height / BLOCK);
-                    }
-                    if(snake[i].y === canvas.height / BLOCK){
-                        snake[i].y = snake[i].y - (canvas.height / BLOCK);
+                let img = new Image();
+img.src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fclipartpng.com%2F%3F1467%2Capple-png-clip-art&psig=AOvVaw3hgc4-4zJQcNFD4OZVYBa7&ust=1734640335677000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDg8vmUsooDFQAAAAAdAAAAABAE'; // Replace with your texture image
+
+img.onload = function () {
+    const pattern = ctx.createPattern(img, 'repeat'); // Use the image as a repeating pattern
+    
+    function drawSnake() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        for (let i = 0; i < snake.length; i++) {
+            const x = snake[i].x;
+            const y = snake[i].y;
+
+            ctx.fillStyle = pattern; // Apply pattern
+            ctx.fillRect(x, y, snakeSize, snakeSize); // Draw snake block with pattern
+        }
+    }
+
+    setInterval(gameLoop, 100); // Game loop
+};
+
                     }
                 }
             }
@@ -268,7 +277,7 @@ permalink: /snake/
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = 'green';
+            ctx.fillStyle = 'pink';
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
