@@ -135,7 +135,10 @@ permalink: /snake/
         const button_new_game2 = document.getElementById("new_game2");
         const button_setting_menu = document.getElementById("setting_menu");
         const button_setting_menu1 = document.getElementById("setting_menu1");
-        // Game Control
+        //Snake Apple
+        const foodImage = new Image();
+        var index = 0
+        foodImage.src = "https://i.imgur.com/zsYk7Ln.png"
         const BLOCK = 10;   // size of block rendering
         let SCREEN = SCREEN_MENU;
         let snake;
@@ -264,7 +267,7 @@ permalink: /snake/
                 snake[snake.length] = {x: snake[0].x, y: snake[0].y};
                 altScore(++score);
                 addFood();
-                activeDot(food.x, food.y);
+                makeFood(food.x, food.y);
             }
             // Repaint canvas
             ctx.beginPath();
@@ -275,7 +278,7 @@ permalink: /snake/
                 activeDot(snake[i].x, snake[i].y);
             }
             // Paint food
-            activeDot(food.x, food.y);
+            makeFood(food.x, food.y);
             // Debug
             //document.getElementById("debug").innerHTML = snake_dir + " " + snake_next_dir + " " + snake[0].x + " " + snake[0].y;
             // Recursive call after speed delay, déjà vu
@@ -327,10 +330,15 @@ permalink: /snake/
         }
         /* Dot for Food or Snake part */
         /////////////////////////////////////////////////////////////
-        let activeDot = function(x, y){
+        let activeDot = function(x, y, i){
             ctx.fillStyle = "#FFFFFF";
             ctx.fillRect(x * BLOCK, y * BLOCK, BLOCK, BLOCK);
         }
+
+        let makeFood = function(x,y){
+            ctx.drawImage(foodImage, x * BLOCK, y * BLOCK, BLOCK, BLOCK);
+        }
+
         /* Random food placement */
         /////////////////////////////////////////////////////////////
         let addFood = function(){
